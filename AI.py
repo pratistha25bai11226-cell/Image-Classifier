@@ -30,7 +30,7 @@ class ImageClassifierApp:
     def __init__(self, root):
         """Initialize the application"""
         self.root = root
-        self.root.title("Basic Image Classifier - Farah Raza (25BHI10027)")
+        self.root.title("Basic Image Classifier - Pratistha Mohan (25BAI11226)")
         self.root.geometry("1200x800")
         self.root.configure(bg='#2c3e50')
         
